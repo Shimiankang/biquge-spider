@@ -52,4 +52,4 @@ python main.py
 
 
 
-如果电脑没有 python 环境的话，我也有打包好的 exe 文件可以直接运行 
+如果电脑没有 python 环境的话，我也有打包好的 exe 文件可以直接运行 https://github.com/Shimiankang/biquge-spider/releases/tag/v1.0.0
