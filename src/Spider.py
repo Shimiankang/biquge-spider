@@ -40,7 +40,7 @@ def get_data():
     # 获取用户输入参数
     url_name = input("请输入笔趣阁最新网址：")
     novel_url = input("请输入要下载小说的网址：")
-    download_mode = input("请选择下载模式：\n (1)每个章节为一个txt文件\n (2)所有章节为一个txt文件中 \n 请输入数字选择：")
+    download_mode = input("请选择下载模式：\n (1)每章节一个文本文件\n (2)所有章节一个文本文件 \n 请输入数字选择：")
 
     response = requests.get(novel_url, headers=headers).content.decode("utf-8")
     novel_info_html = etree.HTML(response)
