@@ -5,17 +5,17 @@
 
 ```shell
 # 笔趣阁
-├─ Novel					# 下载的小说目录
-│    └─ 修罗武神			 # 小说目录
+├─ Novel				        # 下载的小说目录
+│    └─ 修罗武神			  # 小说目录
 ├─ README.md				
 ├─ __pycache__
 ├─ img						
 │    └─ bug.ico
-├─ lib						# 模块目录
-│    ├─ IP.py				# IP 代理池
-├─ main.py					# 主文件 运行文件
+├─ lib						      # 模块目录
+│    ├─ IP.py				    # IP 代理池
+├─ main.py					    # 主文件 运行文件
 ├─ src
-│    ├─ Spider.py			# 爬虫代码文件
+│    ├─ Spider.py	  		# 爬虫代码文件
 ```
 
 
